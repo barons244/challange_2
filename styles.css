@@ -13,6 +13,7 @@
 
   body {
     background-color: #fbe68b;
+     cursor: url('kursors.png'), auto;
   }
  
 * {
