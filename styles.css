@@ -52,6 +52,13 @@
     height: 600px; /* only for demonstration, should be removed */
   }
   
+  article1 {
+    float: left;
+    padding: 20px;
+    width: 1140px;
+    background-color: black;
+    height: 600px; /* only for demonstration, should be removed */
+  }
   /* Clear floats after the columns */
   
   /* Style the footer */
@@ -66,4 +73,7 @@
  .star{
     width: 15px;
     height: 15px;  
+ }
+ .gifi{
+  background-color: #f1f1f1;
  }
